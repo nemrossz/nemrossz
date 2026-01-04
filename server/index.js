@@ -288,6 +288,11 @@ app.post('/api/admin-login', loginLimiter, async (req, res) => {
     }
 });
 
+// --- HEALTH CHECK ---
+app.get('/healthz', (req, res) => {
+    res.status(200).send('OK');
+});
+
 // --- SPA FALLBACK ---
 // For any request that doesn't match an API route, send index.html
 app.get('*', (req, res) => {
