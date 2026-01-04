@@ -16,12 +16,10 @@ const STATS_FILE = path.join(__dirname, 'stats.json');
 const HISTORY_FILE = path.join(__dirname, '../public/market_history.json');
 const CONTENT_DIR = path.join(__dirname, '../public/Tartalom');
 
-// Security: API Key moved to server side
-const FINNHUB_KEY = 'd59qdi9r01qgqlm1tu8gd59qdi9r01qgqlm1tu90';
+// Security: API Keys from Environment Variables
+const FINNHUB_KEY = process.env.FINNHUB_KEY;
+const ADMIN_HASH = process.env.ADMIN_HASH || "f516802523277026727500350493864557922096706012625299831780516565"; // Fallback for transition, but should be in env
 
-// Security: Admin Password Hash (Moved from client to server)
-// Hash of "luTou8OO8&iMe8fN"
-const ADMIN_HASH = "f516802523277026727500350493864557922096706012625299831780516565";
 
 // Security: Headers
 app.use(helmet());
