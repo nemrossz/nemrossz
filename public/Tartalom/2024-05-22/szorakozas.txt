@@ -1,0 +1,23 @@
+[Hírszekció]
+Szórakozás
+[Cím]
+Minden rekordot megdöntött az új sci-fi blockbuster
+[tagek]
+#Mozi #Film #Hollywood
+[Tartalom]
+A hétvégi nyitányon több mint 500 millió dollárt hozott a legújabb űropera. A kritikusok és a nézők egyaránt rajonganak a látványvilágért. A rendező máris bejelentette a folytatást.
+[Forráslink]
+https://example.com/movie
+{https://picsum.photos/800/600?random=501}
+
+[Hírszekció]
+Szórakozás
+[Cím]
+Visszatér a legendás rockzenekar egy utolsó turnéra
+[tagek]
+#Zene #Koncert #Rock
+[Tartalom]
+Húsz év kihagyás után újra összeáll a kultikus banda. A stadionturné jegyei percek alatt elfogytak. A rajongók egész éjszaka sátraztak a jegyirodák előtt.
+[Forráslink]
+https://example.com/music
+{https://picsum.photos/800/600?random=502}

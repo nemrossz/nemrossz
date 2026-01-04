@@ -1,0 +1,23 @@
+[Hírszekció]
+Bulvár
+[Cím]
+Válik a királyi család kedvenc párja?
+[tagek]
+#KirályiCsalád #Botrány #Válás
+[Tartalom]
+Bennfentes források szerint a hercegi pár már hónapok óta külön él. A palota hivatalosan nem kommentálta a híreszteléseket, de a közös nyilvános szereplések elmaradása gyanús.
+[Forráslink]
+https://example.com/royal-split
+{https://picsum.photos/800/600?random=801}
+
+[Hírszekció]
+Bulvár
+[Cím]
+Elképesztő ruhakölteményben jelent meg az énekesnő
+[tagek]
+#Divat #Gála #Celeb
+[Tartalom]
+A MET gálán minden szemet magára vonzott a popsztár ruhája, amely LED panelekből állt és a zene ritmusára változtatta a színét. A tervező szerint 500 munkaóra volt az elkészítése.
+[Forráslink]
+https://example.com/met-gala-dress
+{https://picsum.photos/800/600?random=802}

@@ -1,0 +1,312 @@
+
+[Hírszekció]
+Tech
+[Cím]
+Robotporszívó-jóslatok: Jönnek a lépcsőmászó és karral rendelkező modellek
+[tagek]
+#Robotporszívó #CES 2026 #Okosotthon
+[Tartalom]
+A CNET szakértője szerint a 2026-os CES-en és azután megjelenő robotporszívók egyik legnagyobb újítása a lépcsőmászó képesség lesz, ami forradalmasíthatja a többszintes házak takarítását. Várhatóan elterjednek a robotkarokkal felszerelt modellek is, amelyek jobb tárgyfelismeréssel és manipulációs képességgel rendelkeznek. A teljesen kéz nélküli, mindentudó dokkolóállomások válnak a normává, miközben a prémium funkciók ára fokozatosan csökkenni fog, így a fejlett technológia szélesebb körben is elérhetővé válik.
+[Forráslink]
+https://www.cnet.com/home/kitchen-and-household/the-day-your-robot-vacuum-cleans-without-human-intervention-might-be-closer-than-you-think/
+{https://www.cnet.com/a/img/resize/98bca79e2621404d8075394575971165e3174246/2023/10/05/9a412800-4107-4e6f-9689-183049186638/switchbot-s10-cleaning-robot-vacuum-2.jpg?auto=webp&fit=crop&height=675&width=1200}
+
+[Hírszekció]
+Tech
+[Cím]
+Teszten az InnoView PM408: Gyors és éles hordozható monitor
+[tagek]
+#Monitor #Gaming #Hardware
+[Tartalom]
+Az InnoView PM408 egy 16 hüvelykes, 2560x1600 felbontású hordozható monitor, amely 240Hz-es képfrissítésével és élénk színeivel remek választás játékra és munkára egyaránt. A matt kijelző fényereje eléri a 275 nitet, kontrasztaránya pedig meghaladja az 1000:1 értéket. Bár az eszköz ár-érték aránya kiváló, a beépített hangszórók gyengék, és egyetlen USB-C kábel használatakor előfordulhatnak áramellátási problémák, így érdemes külső tápegységgel használni.
+[Forráslink]
+https://www.cnet.com/tech/computing/innoview-pm408-monitor-review-fast-and-sharp-gaming-on-the-go/
+{https://www.cnet.com/a/img/resize/65662c11867c4587372d627a6f25496464871038/2024/09/25/3bf8722b-240e-4340-9752-6a56795f9c9b/innoview-pm408-portable-monitor-02.jpg?auto=webp&fit=crop&height=675&width=1200}
+
+[Hírszekció]
+Tech
+[Cím]
+Az LG saját művész-tévével hívja ki a Samsung Frame-et
+[tagek]
+#LG #TV #CES 2026
+[Tartalom]
+Az LG bemutatta új "Gallery TV" modelljét, amely közvetlenül a népszerű Samsung The Frame riválisa lesz, 55 és 65 hüvelykes méretben. A készülék MiniLED háttérvilágítást használ, és egy beépített fényérzékelő segítségével optimalizálja a képet, hogy az eredeti műalkotások textúráját idézze, választható mágneses keretekkel. A felhasználók több mint 4500 műalkotás közül válogathatnak, vagy generatív AI segítségével hozhatnak létre saját képeket a CES 2026-on debütáló RTV széria részeként.
+[Forráslink]
+https://www.cnet.com/tech/home-entertainment/lg-takes-on-samsungs-frame-with-gallery-tv/
+{https://www.cnet.com/a/img/resize/481878079524022b109062000570535303272991/2024/01/03/52675914-4172-4d04-9462-817684040984/lg-oled-t-lifestyle-2.jpg?auto=webp&fit=crop&height=675&width=1200}
+
+[Hírszekció]
+Tech
+[Cím]
+Huawei Pura X teszt: Szélesvásznú élmény zsebformátumban
+[tagek]
+#Huawei #Okostelefon #Teszt
+[Tartalom]
+A Huawei Pura X egyedülálló, 16:10-es képarányú, 6,3 hüvelykes belső kijelzőjével tűnik ki a hajlítható telefonok mezőnyéből, ami sokkal jobb videónézési élményt nyújt, mint a riválisok hosszúkás paneljei. A készülék futurisztikus kialakítása frissítően hat, és bár a szélesebb forma miatt a fogása csúszósabb lehet, olvasásra és böngészésre kiválóan alkalmas. A gombok elhelyezkedése a kihajtás irányától függően változik, ami megszokást igényel, de összességében a design praktikus és szórakoztató.
+[Forráslink]
+https://www.cnet.com/tech/mobile/i-tested-the-huawei-pura-x-this-wide-screen-flip-phone-is-refreshing-and-fun/
+{https://www.cnet.com/a/img/resize/c476722d37c35619375710636253457193214539/2024/11/14/d6226685-6184-4809-8472-888496468936/huawei-pura-70-ultra-review-cnet-lexy-savvides-10.jpg?auto=webp&fit=crop&height=675&width=1200}
+
+[Hírszekció]
+Tech
+[Cím]
+Amazfit Active Max: Okosóra, ami majdnem egy hónapig bírja
+[tagek]
+#Amazfit #Okosóra #Viselhető eszközök
+[Tartalom]
+Az Amazfit új Active Max okosórája akár 25 napos üzemidőt ígér egyetlen töltéssel, ami kiemelkedő a kategóriájában. A 169 dolláros (kb. 60-70 ezer forint) eszköz 1,5 hüvelykes AMOLED kijelzővel és több mint 160 sportmóddal rendelkezik, beleértve egy beépített AI edzőt is. Az óra új "BioCharge" funkciója a Fitbit és Garmin megoldásaihoz hasonlóan figyeli a felhasználó energiaszintjét az aktivitás és a pihenés alapján.
+[Forráslink]
+https://www.cnet.com/tech/mobile/the-amazfit-active-max-is-built-for-the-long-run-literally/
+{https://www.cnet.com/a/img/resize/3e528892780e5999209525287313045618445105/2024/09/06/33120155-2200-4493-9092-340176846175/amazfit-t-rex-3-watch-review-cnet-lisa-eadicicco-006.jpg?auto=webp&fit=crop&height=675&width=1200}
+
+[Hírszekció]
+Tech
+[Cím]
+Így teheted egyedivé az üzeneteidet iPhone-on
+[tagek]
+#Apple #iOS #Tippek
+[Tartalom]
+Az iPhone Messages alkalmazása lehetőséget ad egyedi hátterek beállítására, ami segít vizuálisan megkülönböztetni a különböző beszélgetéseket. A felhasználók választhatnak absztrakt mozgó háttereket (pl. Szín, Égbolt), saját fotókat, vagy Apple Intelligence esetén generált képeket is. A beállítás csak a mentett névjegyeknél működik, és a választott hátteret a beszélgetőpartner is látni fogja.
+[Forráslink]
+https://www.cnet.com/tech/services-and-software/apple-iphone-messages-backgrounds/
+{https://www.cnet.com/a/img/resize/e006657155663784132338166597792610260485/2024/09/16/09144469-6988-464a-bc07-308104278453/ios-18-messages-text-effects-formatting-iphone-15-pro-cnet-patrick-holland-1.jpg?auto=webp&fit=crop&height=675&width=1200}
+
+[Hírszekció]
+Tech
+[Cím]
+Kormánykerékkel tesztelik a Tesla "kormány nélküli" robottaxiját
+[tagek]
+#Tesla #Cybercab #Önvezetés
+[Tartalom]
+Bár Elon Musk ígérete szerint a Tesla Cybercab pedálok és kormánykerék nélkül érkezne, a legújabb kémfotókon kormánykerékkel felszerelt prototípusok láthatók tesztelés közben Austinban. A lépés nem meglepő, mivel a jelenlegi szabályozások gyakran megkövetelik a biztonsági sofőr jelenlétét a közutakon végzett tesztek során. Ugyanakkor felmerül a gyanú, hogy ez egyfajta "B-terv" is lehet, amennyiben a Tesla önvezető rendszere nem éri el a teljes autonómiát a tervezett 2026-os startra.
+[Forráslink]
+https://electrek.co/2025/12/30/tesla-cybercabs-spotted-testing-unsurprisingly-with-steering-wheels/
+{https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Cybercab-steering-wheel-hero.jpg?quality=82&strip=all&w=1600}
+
+[Hírszekció]
+Tech
+[Cím]
+A Meta 2 milliárd dollárért felvásárolja a Manus AI startupot
+[tagek]
+#Meta #AI #Akvizíció
+[Tartalom]
+A Meta több mint 2 milliárd dolláros üzlet keretében felvásárolja a Manus nevű (korábban Butterfly Effect) AI startupot, amely összetett feladatok automatizálására képes ügynökökről ismert. A cég technológiája piaci kutatást, kódolást és weboldal-készítést is automatizál, és már több millió felhasználót szolgál ki. A felvásárlás az egyik legnagyobb, amely a kínai AI ökoszisztémából indult céget érint, a Manus pedig csatlakozik a Meta fejlesztőihez, hogy globálisan terjeszkedjen.
+[Forráslink]
+https://www.engadget.com/ai/meta-buys-startup-known-for-its-ai-task-automation-agents-140045275.html?src=rss
+{https://s.yimg.com/os/creatr-uploaded-images/2024-04/93893090-fdd3-11ee-bf7f-f7d9247ea5e7}
+
+[Hírszekció]
+Tech
+[Cím]
+Ezek lesznek 2026 legjobb iPad tokjai
+[tagek]
+#iPad #Kiegészítők #Apple
+[Tartalom]
+Az Engadget összeállítása szerint 2026 legjobb iPad tokjai között a ProCase modellje viszi a prímet általános használatra, köszönhetően kedvező árának és megbízhatóságának. Aki maximális védelmet keres, annak az OtterBox Defender sorozat ajánlott, míg a laptop-szerű élményért az Apple saját Magic Keyboardja a legjobb, bár borsos áron. A Logitech Combo Touch remek alternatívát kínál azoknak, akik billentyűzetes tokot keresnek, de nem szeretnék kifizetni az Apple felárát.
+[Forráslink]
+https://www.engadget.com/computing/accessories/best-ipad-cases-to-protect-your-tablet-130033533.html?src=rss
+{https://s.yimg.com/os/creatr-uploaded-images/2022-10/48793570-54e7-11ed-b57f-d5626c968f51}
+
+[Hírszekció]
+Tech
+[Cím]
+NVIDIA a CES 2026-on: Itt nézheti élőben a bemutatót
+[tagek]
+#Nvidia #CES 2026 #GPU
+[Tartalom]
+Az NVIDIA január 5-én, magyar idő szerint este tartja nagyszabású bemutatóját a CES 2026-on, ahol a vezérigazgató, Jensen Huang 90 perces előadást tart. A várakozások szerint a cég az AI dominancia mellett bemutatja az új RTX 5000-es sorozatú grafikus kártyáit és a legújabb robotikai fejlesztéseit. Az eseményt a vállalat hivatalos weboldalán és YouTube-csatornáján is élőben közvetítik.
+[Forráslink]
+https://www.engadget.com/computing/how-to-watch-the-nvidia-ces-2026-presentation-live-130028065.html?src=rss
+{https://s.yimg.com/os/creatr-uploaded-images/2024-01/89445170-af35-11ee-bbe7-52646c243653}
+
+[Hírszekció]
+Tech
+[Cím]
+Papírszerű élmény színesben: Itt a TCL Note A1 NXTPAPER
+[tagek]
+#TCL #Tablet #NXTPAPER
+[Tartalom]
+A TCL bemutatta a Note A1 NXTPAPER táblagépet, amely a cég saját fejlesztésű, papírszerű LCD technológiáját használja, így egyesíti az E-Ink olvashatóságát a hagyományos képernyők sebességével. A 11,5 hüvelykes, 120Hz-es kijelzővel szerelt eszköz kifejezetten produktivitásra készült: tolltámogatással, valós idejű hangjegyzet-átírással és AI funkciókkal rendelkezik. Az 549 dolláros (kb. 200 ezer forint) tablet február végén kerül forgalomba, és Android rendszert futtat.
+[Forráslink]
+https://www.engadget.com/mobile/tablets/tcl-introduces-its-own-take-on-a-color-kindle-scribe-140000207.html?src=rss
+{https://s.yimg.com/os/creatr-uploaded-images/2024-02/94465490-d33a-11ee-bb7f-714652435553}
+
+[Hírszekció]
+Tech
+[Cím]
+Jön a Google Fotók natív alkalmazása Samsung tévékre
+[tagek]
+#Google #Samsung #Smart TV
+[Tartalom]
+A Google Fotók végre teljes értékű, natív alkalmazásként is elérhető lesz a Samsung okostévéin 2026-tól, megszüntetve a korábbi körülményes megoldásokat. Az új integráció lehetővé teszi, hogy a felhasználók közvetlenül a tévéjükön böngésszék fotóikat és videóikat, anélkül, hogy telefonról kellene tükrözniük a tartalmat. Ez a lépés jelentősen javítja a két technológiai óriás ökoszisztémájának átjárhatóságát a nappalikban.
+[Forráslink]
+https://petapixel.com/2025/12/30/google-photos-will-launch-on-samsung-tvs-in-2026/
+{https://petapixel.com/assets/uploads/2024/01/Google-Photos-TV-Feature-800x420.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+Egy profi drónfotós objektívén keresztül 2025 legszebb tájai
+[tagek]
+#Fotózás #Drón #Művészet
+[Tartalom]
+Chris Gorman, elismert drónfotós közzétette kedvenc felvételeit 2025-ből, amelyek madártávlatból mutatják be a világ lenyűgöző tájait és építészeti különlegességeit. A válogatásban szereplő képek a DJI legújabb technológiáját használva készültek, bizonyítva, hogy a drónfotózás mára önálló és magaskultúrájú művészeti ággá érett. A sorozat nemcsak technikai bravúr, hanem egy vizuális utazás is az év legemlékezetesebb pillanataiba.
+[Forráslink]
+https://petapixel.com/2025/12/30/professional-drone-photographer-picks-his-favorite-shots-of-2025/
+{https://petapixel.com/assets/uploads/2024/09/Drone-Awards-2024-Feature-800x420.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+Kettétört a Samsung Galaxy TriFold a kínzás alatt
+[tagek]
+#Samsung #TriFold #JerryRigEverything
+[Tartalom]
+A JerryRigEverything csatorna legújabb videójában a Samsung duplán hajlítható Galaxy TriFold készüléke került górcső alá, és az eredmények vegyesek. Bár a telefon váza és zsanérjai jól bírták a karcolást és a homokot, a készüléket "hátrafelé" hajlítva a váz az antenna vonalánál reccsent, és a kijelző használhatatlanná vált. A belső képernyő a körömnyomoknak sem áll ellen (2-es keménységi szint), és a nyílt láng hatására a pixelek végleg elpusztultak, bizonyítva, hogy a technológia még mindig sérülékeny.
+[Forráslink]
+https://hvg.hu/tudomany/20251230_samsung-galaxy-trifold-torturateszt-jerryrigeverything-video
+{https://kep.hvg.hu/w/600/h/600/img/logo/hvg_square.png}
+
+[Hírszekció]
+Tech
+[Cím]
+A PC Gamer szerint az AMD Radeon RX 9070 XT lett 2025 legjobb videokártyája
+[tagek]
+#AMD #Videokártya #PC Gamer
+[Tartalom]
+A PC Gamer Hardware Awards 2025-ös díjazásán az AMD Radeon RX 9070 XT emelkedett ki mint a legjobb grafikus kártya jelölt. A kártya 599 dolláros ajánlott árával kiemelkedő ár-érték arányt kínál, miközben teljesítményben felveszi a versenyt a 750 dolláros Nvidia RTX 5070 Ti-vel. Az AMD végre sikeresen alkalmazta a régen várt stratégiát: a versenytársakkal azonos teljesítményt alacsonyabb áron kínálni. Az új FSR4 upscaling technológia és a jelentősen javított ray tracing képességek révén a kártya felzárkózott az Nvidia-féle DLSS minőségéhez. A jelöltek között szerepelt még az RX 9060 XT 16 GB-os változata (amely a középkategóriában nyújt kiváló értéket 16 GB memóriával), valamint az Nvidia RTX 5070 Ti, amely meglepően jó túlhajthatóságával tűnt ki az előző generációkhoz képest.
+[Forráslink]
+https://www.pcgamer.com/hardware/graphics-cards/pc-gamer-hardware-awards-the-best-graphics-card-of-2025/
+{https://cdn.mos.cms.futurecdn.net/best-graphics-card-2025.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+A PC Gamer különleges hardverdíjainak jelöltjei: Wi-Fi 7 router, tesztelőpad és prémium kontroller
+[tagek]
+#PC Gamer #Router #Gamer kontroller
+[Tartalom]
+A PC Gamer 2025-ös Hardware Awards "Wildcard" kategóriájában három szokatlan termék kapott jelölést. A TP-Link Deco BE68 BE14000 mesh Wi-Fi 7 rendszer akár 8100 négyzetláb (kb. 750 négyzetméter) lefedettséget biztosít magas átviteli sebességgel, bár borsos áron. A Thermal Grizzly Der8enchtable egy 270 dolláros nyílt platformú tesztelőpad, amely lehetővé teszi az alaplap és komponensek tesztelését burkolat nélkül – ez hauptsächlich overclockerek és hardvertesztelők számára ideális. A Razer Wolverine V3 Pro 8K PC kontroller 200 dollárért 8000 Hz-es lekérdezési rátát, TMR thumbstickeket és Hall-effektus triggereket kínál, így a kompetitív játékosok számára készült prémium választás. A győztest szilveszterkor jelentik be.
+[Forráslink]
+https://www.pcgamer.com/hardware/processors/pc-gamer-hardware-awards-2025s-wildcards-the-best-of-the-rest-is-full-of-surprises/
+{https://cdn.mos.cms.futurecdn.net/wildcards-2025.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+A Canon bemutatta az EOS R6 Mark III-at és egy meglepően olcsó, 469 dolláros f/1.2-es objektívet
+[tagek]
+#Canon #Fényképezőgép #Objektív
+[Tartalom]
+A Canon bemutatta az EOS R6 Mark III tükör nélküli fényképezőgépet, amely 2799 dolláros áron érhető el és jelentős fejlesztéseket kínál elődjéhez képest: magasabb felbontást, akár 7K videórögzítést open-gate módban és javított autofókusz teljesítményt. A gép kiváló választás vadvilág fotózástól esküvőkig és videózásig. A valódi meglepetés azonban az RF 45mm f/1.2 STM objektív, amely mindössze 469 dollárba kerül – ez szinte példátlan egy ilyen fényerejű, f/1.2-es objektív esetében. Összehasonlításképpen a Canon saját RF 50mm f/1.2 L USM modellje 2600 dollár, míg a Sigma hasonló objektívje 1500 dollár felett van. Az új 45mm-es objektív kompakt méretű és könnyű (majdnem fél kilóval könnyebb a Sony 50mm f/1.2 GM-nél), így ideális mindennapi használatra.
+[Forráslink]
+https://www.theverge.com/gadgets/850602/canon-eos-r6-mark-iii-rf-45mm-12-camera-lens-impressions-review
+{https://duet-cdn.vox-cdn.com/thumbor/canon-eos-r6-mark-iii.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+Az LG bejelentette saját "Frame-stílusú" művészeti televízióját a CES 2026-ra
+[tagek]
+#LG #Televízió #CES
+[Tartalom]
+Az LG a 2026-os CES kiállításra készülve bejelentette a Gallery TV-t, amely közvetlenül a Samsung The Frame sorozatának konkurenseként lép a piacra. Az új televízió mini-LED technológiát alkalmaz speciális tükröződéscsökkentő bevonattal, amely művészeti alkotások megjelenítésére optimalizált. A készülék a Gallery+ szolgáltatással működik, amely több ezer megjelenítési tartalmat kínál műalkotásoktól mozgóképekig és játékjelenetekig – bár a teljes funkcionalitás előfizetést igényel. Az OLED helyett mini-LED választása tudatos döntés, mivel az OLED technológia érzékeny a hosszú ideig megjelenített statikus képekre (beégés veszélye). A TV fehér kerettel érkezik, de fa színű keret is vásárolható hozzá. 55 és 65 hüvelykes méretben lesz kapható, az árakat még nem közölték.
+[Forráslink]
+https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026
+{https://duet-cdn.vox-cdn.com/thumbor/lg-gallery-tv.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+A Gardyn Studio 2 teszt: AI-vezérelt beltéri kert 549 dollárért, amely még a "fekete kézzel" rendelkezőknek is segít
+[tagek]
+#Okoskert #Hidroponika #AI
+[Tartalom]
+A Gardyn Studio 2 egy 549 dolláros AI-vezérelt beltéri hidroponikus növénytermesztő rendszer, amely teljesen automatizálja az otthoni zöldség- és fűszertermesztést. A rendszer 16 növény számára biztosít helyet egy 1,4 négyzetláb (kb. 0,13 négyzetméter) alapterületű, függőleges elrendezésű egységben. Az AI asszisztens, Kelby (havi 25 dolláros, vagy éves előfizetéssel 19 dolláros díj ellenében) figyeli a kamera, a páratartalom-, hőmérséklet- és vízszint-érzékelők adatait, és automatikusan beállítja a világítási és öntözési ciklusokat. A tesztelő három hónap alatt napraforgót, karalábét, bazsalikomot, salátát, zöldborsót és egzotikus zöldségeket nevelett sikeresen. A havi előfizetés fedezi az új magkapszulák küldését is. Hátránya a magas ár és az intenzív LED-fény, amely nem minden helyiségbe illik.
+[Forráslink]
+https://www.theverge.com/tech/850224/gardyn-studio-2-review-smart-indoor-garden
+{https://duet-cdn.vox-cdn.com/thumbor/gardyn-studio-2.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+A Meta 2 milliárd dollárért felvásárolta a Manus AI startupot, amely már 100 millió dolláros bevételt termel
+[tagek]
+#Meta #AI #Felvásárlás
+[Tartalom]
+A Meta Platforms 2 milliárd dollárért felvásárolta a szingapúri Manus AI startupot, amely tavasszal debütált és azóta a Szilícium-völgy egyik legfelkapottabb cégévé vált. A Manus AI ügynökei képesek önállóan végrehajtani feladatokat, mint állásjelöltek szűrése, nyaralástervezés vagy részvényportfólió elemzése, és a cég állítása szerint felülmúlták az OpenAI Deep Research teljesítményét. Áprilisban a Benchmark 75 millió dolláros befektetést vezetett a cégbe 500 millió dolláros értékelés mellett, a korábbi befektetők között volt a Tencent, a ZhenFund és a HSG (korábbi Sequoia China). December közepén a Manus bejelentette, hogy több millió felhasználót szerzett és éves visszatérő bevétele meghaladja a 100 millió dollárt – mindössze 9 hónappal az indulás után. A Meta a Manus-t önálló egységként működteti tovább, miközben AI-ügynökeit integrálja a Facebook, Instagram és WhatsApp platformokba.
+[Forráslink]
+https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/
+{https://techcrunch.com/wp-content/uploads/2025/12/manus-meta.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+A TechCrunch összeállította a Disrupt 2025 legjobb 26 fogyasztói és edtech startupját
+[tagek]
+#Startup #Edtech #TechCrunch
+[Tartalom]
+A TechCrunch éves Startup Battlefield versenyéből kiemelték a legjobb 26 fogyasztói és oktatástechnológiai (edtech) startupot a 200-as mezőnyből. A fogyasztói oldalon olyan innovatív cégek kaptak helyet, mint az Ahoi (akadálymentesített helyek keresője), a Renude (AI-alapú bőrápoló ajánlórendszer), a Tattd (AI-vezérelt tetoválóművész-kereső), valamint a ZoraSafe (csalásellenes védelem családoknak és időseknek, beleértve a deepfake-ek és social engineering elleni védelmet). Az edtech kategóriában kiemelkedik a CampusAI (AI képzési platform mindennapos munkavállalóknak), a General Neuro (nyelvtanulást segítő headset), a Readmio (interaktív mesézős alkalmazás szülőknek és gyerekeknek), valamint a Super Teacher (AI-tutorsystem általános iskoláknak). A győztes 100 000 dolláros díjazásban és a Startup Battlefield Kupában részesül.
+[Forráslink]
+https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/
+{https://techcrunch.com/wp-content/uploads/2025/12/disrupt-battlefield.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+A Jaguar legyártotta utolsó benzines autóját, ezentúl csak elektromos modelleket gyárt
+[tagek]
+#Jaguar #Elektromos autó #Autóipar
+[Tartalom]
+A Jaguar lezárta a belsőégésű motorok korszakát: a brit márka solihull-i gyárában elkészült az utolsó benzines modell, egy fekete fényezésű F-Pace SVR. Az autót egy 575 lóerős, kompresszoros V8-as motor hajtja, amely 4 másodperc alatt gyorsul 0-ról 100 km/h-ra, végsebessége pedig 286 km/h. A 2016 óta gyártott F-Pace-ből összesen 300 ezer példány készült. A vállalat ezzel teljes arculatváltáson megy keresztül: 2026-ban mutatják be az 1000+ lóerős elektromos Type 00 modellt, az első vásárlói példányok pedig 2027-ben érkezhetnek meg.
+[Forráslink]
+https://hvg.hu/cegauto/20251230_veget-ert-a-benzines-jaguarok-gyartasa
+{https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/09db44bc-f364-4c90-99bd-16c7dd4596d1.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+600 millió forintból készült el az átalakított Ferrari 412 restomod
+[tagek]
+#Ferrari #Restomod #V12
+[Tartalom]
+Egy 1985-ös Ferrari 412 kapott különleges átalakítást, amelynek költsége elérte a 600 millió forintot. A több mint 5000 munkaóra alatt elkészült autó utasterét méregdrága mongol kasmír borítja. Az eredeti 340 lóerős, 4,9 literes V12-es motor helyére a Ferrari 812 Superfast 6,5 literes szívómotorja került, amely 800 lóerős teljesítményre és 718 Nm nyomatékra képes. Az erőforráshoz a Ferrari 599 GTB kézi váltóra átalakított sebességváltója kapcsolódik. A restomod 18 colos Brixton kovácsolt felniket, karbonszálas kagylóüléseket és digitális műszeregységet kapott.
+[Forráslink]
+https://hvg.hu/cegauto/20251230_600-millio-forintbol-tuningoltak-fel-ezt-a-regi-ferrari-412
+{https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/a49cf43a-6fbe-45a4-b5eb-c7903d9728ae.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+Megnyílt a világ leghosszabb autópálya-alagútja Kínában
+[tagek]
+#Alagút #Kína #Infrastruktúra
+[Tartalom]
+Kínában átadták a 22,13 km hosszú Tiensan Sengli alagutat, amely a világ leghosszabb autópálya-alagútja. Az alagút átvágja a Tiensan-hegységet, és az Urumcsi–Korla közötti menetidőt 7 óráról 3,5 órára csökkenti. Az építkezés 2020-ban kezdődött, és 46,7 milliárd jüanba (5,7 milliárd euró) került.
+[Forráslink]
+https://hvg.hu/cegauto/20251230_megnyilt-a-vilag-leghosszabb-alagutja-kinaban
+{https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/4226f0e0-2bb6-41e7-a6bb-184aa0fe7f72.jpg}
+
+[Hírszekció]
+Tech
+[Cím]
+A Lexus bemutatta az RZ600e F Sport Performance elektromos SUV-t
+[tagek]
+#Lexus #Elektromos autó #SUV
+[Tartalom]
+A Lexus leleplezett egy új csúcsmodellt, a 2026-os RZ600e F Sport Performance elektromos SUV-t. Az autó összkerékhajtással rendelkezik két 167 kW-os motornak köszönhetően, összteljesítménye 313 kW, ami 13 kW-tal több az RZ550e-nél. A 77 kWh-s akkumulátor WLTC mérés szerint 525 km hatótávot biztosít – jelentősen többet az RZ550e 450 km-énél. A külső változások között 21 colos Enkei felnik, karbonszálas motorháztető, tető, illetve első és hátsó spoilerek szerepelnek. Japánban az ár 12,165 millió jen (kb. 115 800 ausztrál dollár), ami olcsóbb a korábbi RZ450e ausztráliai áránál. A limitált széria pontos darabszámát nem közölték. Ausztráliában 2026 folyamán érkezik a megújult RZ-kínálat.
+[Forráslink]
+https://www.drive.com.au/news/2026-lexus-rz600e-f-sport-performance-revealed-more-power-but-no-performance-gains/
+{https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/18a0c232-597d-57ef-9700-717640e50000}
+
+[Hírszekció]
+Tech
+[Cím]
+A 2026-os Mitsubishi ASX Exceed: Renault-alapú kompakt SUV 46 490 dolláros áron
+[tagek]
+#Mitsubishi #SUV #Autóteszt
+[Tartalom]
+A Mitsubishi új ASX Exceed modellje valójában egy átcímkézett Renault Captur, amelyet a szigorodó ausztrál biztonsági előírások miatt kellett gyorsan piacra dobni. Az autó 4238 mm hosszú, ezzel kisebb, mint elődje, és az ára 46 490 ausztrál dollár. A Mitsubishi külső dizájnja jól sikerült, belül modern infotainment rendszert kapott. A vállalat 5 év/100 000 km garanciát kínál, amely kiterjeszthető 10 évre/200 000 km-re, amennyiben a szervizeket márkaszervizben végeztetik. A fix árú szervizprogram 10 évre/150 000 km-re szól. A teszt szerint az autó ugyan drágább lett, de minőségi ugrást jelenthet a korábbi, 15 évig gyártott modellhez képest.
+[Forráslink]
+https://www.drive.com.au/reviews/2026-mitsubishi-asx-exceed-review/
+{https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/785815ea-aab3-507d-878b-0697e7850000}

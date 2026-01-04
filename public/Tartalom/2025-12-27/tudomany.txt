@@ -1,0 +1,23 @@
+[Hírszekció]
+Tudomány
+[Cím]
+Víz nyomaira bukkantak a Marson egy ősi folyómederben
+[tagek]
+#Mars #Űrkutatás #NASA
+[Tartalom]
+A Perseverance marsjáró fúrásai során olyan kőzetmintákat gyűjtött, amelyek egyértelműen folyékony víz jelenlétére utalnak a múltban. A kráter alján található üledékes rétegek szerves molekulákat is rejthetnek.
+[Forráslink]
+https://example.com/mars-water
+{https://picsum.photos/800/600?random=201}
+
+[Hírszekció]
+Tudomány
+[Cím]
+Áttörés a fúziós energiában: több energiát nyertek ki, mint amit befektettek
+[tagek]
+#Fúzió #Energia #ZöldJövő
+[Tartalom]
+A kaliforniai laboratórium kísérlete történelmi sikert aratott. A lézeres gyújtással elért fúzió során 20%-kal több energia keletkezett, mint amennyit a lézerek működtetése igényelt. Ez a lépés közelebb hoz minket a végtelen, tiszta energia álmához.
+[Forráslink]
+https://example.com/fusion-energy
+{https://picsum.photos/800/600?random=202}

@@ -1,0 +1,23 @@
+[Hírszekció]
+Bulvár
+[Cím]
+Titkos esküvő: összeházasodott a sztárpár
+[tagek]
+#Esküvő #Celeb #Pletyka
+[Tartalom]
+Egy távoli olasz kastélyban mondta ki a boldogító igent a népszerű színésznő és producer párja. A biztonsági intézkedések szigorúak voltak, drónokkal figyelték a területet. Csak a legszűkebb család volt jelen.
+[Forráslink]
+https://example.com/wedding
+{https://picsum.photos/800/600?random=801}
+
+[Hírszekció]
+Bulvár
+[Cím]
+Botrány a díjátadón: leöntötték a műsorvezetőt
+[tagek]
+#Botrány #TV #Show
+[Tartalom]
+Élő adásban történt az incidens, amitől lefagyott a stúdió. A sértett vendég szerint provokatív kérdéseket kapott. Az internet népe máris mémeket gyárt az esetből.
+[Forráslink]
+https://example.com/scandal
+{https://picsum.photos/800/600?random=802}

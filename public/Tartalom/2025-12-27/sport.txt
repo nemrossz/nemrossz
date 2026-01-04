@@ -1,0 +1,23 @@
+[Hírszekció]
+Sport
+[Cím]
+Verhetetlen a magyar úszófenomén
+[tagek]
+#Úszás #Olimpia #MagyarSiker
+[Tartalom]
+Újabb világcsúcsot úszott a 200 méteres pillangó döntőjében. A versenytársak méterekkel lemaradva értek csak célba. Ezzel ő lett minden idők legsikeresebb magyar úszója ebben a számban.
+[Forráslink]
+https://example.com/swimming-record
+{https://picsum.photos/800/600?random=901}
+
+[Hírszekció]
+Sport
+[Cím]
+Dráma a Forma-1 szezonzárón
+[tagek]
+#F1 #Autósport #Bajnok
+[Tartalom]
+Az utolsó körben dőlt el a világbajnoki cím sorsa. A safety car bejövetele teljesen felborította a stratégiákat, és a trónkövetelő frissebb gumikon előzte meg a címvédőt az utolsó kanyarban.
+[Forráslink]
+https://example.com/f1-final
+{https://picsum.photos/800/600?random=902}

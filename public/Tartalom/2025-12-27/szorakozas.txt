@@ -1,0 +1,23 @@
+[Hírszekció]
+Szórakozás
+[Cím]
+A virtuális valóság koncertek az új őrület
+[tagek]
+#VR #Koncert #Zene #Metaverzum
+[Tartalom]
+A legnagyobb popsztárok már nem csak stadionokban, hanem a metaverzum digitális színpadain is fellépnek. A jegyek olcsóbbak, és a nézők az első sorból élvezhetik a látványos effekteket, anélkül, hogy elhagynák a nappalijukat.
+[Forráslink]
+https://example.com/vr-concert
+{https://picsum.photos/800/600?random=501}
+
+[Hírszekció]
+Szórakozás
+[Cím]
+Oscar-esélyes a magyar rendező új filmje
+[tagek]
+#Mozi #MagyarFilm #Oscar
+[Tartalom]
+A Cannes-i Filmfesztiválon állva tapsolták meg a legújabb hazai drámát. A kritikusok szerint a filmnek komoly esélye van a legjobb nemzetközi film kategóriában az akadémiai díjátadón.
+[Forráslink]
+https://example.com/hungarian-movie
+{https://picsum.photos/800/600?random=502}

@@ -1,0 +1,35 @@
+[Hírszekció]
+Tech
+[Cím]
+Az Apple bemutatta a szemüveg nélküli AR kijelzőjét
+[tagek]
+#Apple #AR #Innováció
+[Tartalom]
+Cupertinóban ma leplezték le a legújabb kijelzőtechnológiát, amely speciális lencserendszerrel teszi lehetővé a 3D tartalmak megjelenítését szemüveg nélkül. Tim Cook szerint ez a "post-iPhone" korszak kezdete. A fejlesztők már hozzáférhetnek az SDK-hoz.
+[Forráslink]
+https://example.com/apple-ar
+{https://picsum.photos/800/600?random=101}
+
+[Hírszekció]
+Tech
+[Cím]
+A Quantum Computing áttörés: 1000 qubit felett a Google
+[tagek]
+#Kvantum #Google #Jövő
+[Tartalom]
+A Google Sycamore processzora átlépte a bűvös 1000 qubites határt stabil hibajavítás mellett. Ez lehetővé teheti olyan gyógyszerek szimulálását, amelyek eddig lehetetlenek voltak. A tudományos világ izgatottan várja a publikációt.
+[Forráslink]
+https://example.com/quantum
+{https://picsum.photos/800/600?random=102}
+
+[Hírszekció]
+Tech
+[Cím]
+Vége a jelszavaknak? Itt a Passkey forradalom
+[tagek]
+#Biztonság #Passkey #Cyber
+[Tartalom]
+A nagy tech óriások egységesen vezetik be a biometrikus alapú beléptetést. A hagyományos jelszavak 2 éven belül teljesen eltűnhetnek. A rendszer biztonságosabb és kényelmesebb a felhasználók számára.
+[Forráslink]
+https://example.com/passkey
+{https://picsum.photos/800/600?random=103}

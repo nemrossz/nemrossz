@@ -1,0 +1,23 @@
+[Hírszekció]
+Utazás
+[Cím]
+Japán vidéki falvai: A nyugalom szigetei
+[tagek]
+#Japán #Utazás #Kultúra
+[Tartalom]
+Míg Tokió és Kiotó tele van turistákkal, a vidéki Japán felfedezése igazi időutazás. A hagyományos ryokan szállások, a forró onsen fürdők és a helyi gasztronómia felejthetetlen élményt nyújtanak.
+[Forráslink]
+https://example.com/japan-travel
+{https://picsum.photos/800/600?random=601}
+
+[Hírszekció]
+Utazás
+[Cím]
+Fenntartható turizmus: Hogyan utazzunk zölden?
+[tagek]
+#Öko #Utazás #Tippek
+[Tartalom]
+A vonatos körutazások reneszánszukat élik Európában. Egyre többen választják a repülés helyett a lassabb, de környezetbarátabb közlekedést, ami lehetőséget ad a táj valódi megismerésére.
+[Forráslink]
+https://example.com/eco-travel
+{https://picsum.photos/800/600?random=602}

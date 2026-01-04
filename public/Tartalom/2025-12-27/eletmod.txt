@@ -1,0 +1,23 @@
+[Hírszekció]
+Életmód
+[Cím]
+A mikrobiom diéta: Mit együnk a bélflóránk érdekében?
+[tagek]
+#Egészség #Diéta #Bélflóra
+[Tartalom]
+A legújabb kutatások szerint a bélbaktériumaink állapota kihat a hangulatunkra és az immunrendszerünkre is. A fermentált ételek, mint a kefir és a savanyú káposzta, kulcsfontosságúak lehetnek.
+[Forráslink]
+https://example.com/microbiome
+{https://picsum.photos/800/600?random=701}
+
+[Hírszekció]
+Életmód
+[Cím]
+Otthoni edzés okosan: Nem kell konditerem a fittséghez
+[tagek]
+#Sport #Otthon #Fitness
+[Tartalom]
+A saját testsúlyos edzések (calisthenics) egyre népszerűbbek. Napi 20 perc intenzív mozgással már látványos eredményeket lehet elérni, és ehhez semmilyen drága eszközre nincs szükség.
+[Forráslink]
+https://example.com/home-workout
+{https://picsum.photos/800/600?random=702}

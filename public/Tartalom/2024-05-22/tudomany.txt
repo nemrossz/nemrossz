@@ -1,0 +1,23 @@
+[Hírszekció]
+Tudomány
+[Cím]
+Új exobolygót találtak a lakható zónában
+[tagek]
+#Csillagászat #Űr #NASA
+[Tartalom]
+A James Webb távcső adatai alapján egy Föld-méretű bolygót azonosítottak, ahol folyékony víz is jelen lehet. A légkör összetételének elemzése jelenleg is zajlik. Ez lehet az eddigi legígéretesebb jelölt az idegen élet kutatásában.
+[Forráslink]
+https://example.com/exoplanet
+{https://picsum.photos/800/600?random=201}
+
+[Hírszekció]
+Tudomány
+[Cím]
+Sikeresen visszanyerték a mozgást a gerincvelő implantátummal
+[tagek]
+#Orvostudomány #BioTech #Kutatás
+[Tartalom]
+Svájci kutatók egy új eljárással tették lehetővé, hogy lebénult páciensek újra járjanak. Az AI vezérelt implantátum áthidalja a sérült idegszakaszt. A klinikai tesztek kiterjesztése jövőre indul.
+[Forráslink]
+https://example.com/medical
+{https://picsum.photos/800/600?random=202}

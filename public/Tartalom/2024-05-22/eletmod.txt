@@ -1,0 +1,23 @@
+[Hírszekció]
+Életmód
+[Cím]
+A mediterrán diéta még mindig a legegészségesebb
+[tagek]
+#Egészség #Diéta #Táplálkozás
+[Tartalom]
+Egy 20 éves követéses vizsgálat megerősítette, hogy az olívaolajban és zöldségekben gazdag étrend jelentősen növeli a várható élettartamot. A szívbetegségek kockázata 30%-kal csökkent a vizsgált csoportban.
+[Forráslink]
+https://example.com/diet
+{https://picsum.photos/800/600?random=701}
+
+[Hírszekció]
+Életmód
+[Cím]
+Digitális detox: miért van rá szükséged?
+[tagek]
+#Wellness #MentálisEgészség #Offline
+[Tartalom]
+A pszichológusok szerint a folyamatos online jelenlét növeli a szorongást. A hétvégi "kikapcsolás" segít helyreállítani a mentális egyensúlyt. Tippek a telefonmentes zónák kialakításához.
+[Forráslink]
+https://example.com/detox
+{https://picsum.photos/800/600?random=702}

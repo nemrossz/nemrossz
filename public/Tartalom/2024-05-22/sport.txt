@@ -1,0 +1,23 @@
+[Hírszekció]
+Sport
+[Cím]
+Hihetetlen fordítás a Bajnokok Ligája döntőjében
+[tagek]
+#Foci #BL #Sport
+[Tartalom]
+A 90. percben még vesztésre álló csapat két gólt szerzett a hosszabbításban. A stadion felrobbant az ünnepléstől. Az edző szerint ez volt pályafutása legfontosabb győzelme.
+[Forráslink]
+https://example.com/football
+{https://picsum.photos/800/600?random=901}
+
+[Hírszekció]
+Sport
+[Cím]
+Új világcsúcs született maratonfutásban
+[tagek]
+#Futás #Rekord #Olimpia
+[Tartalom]
+Berlinben dőlt meg a rekord, több mint fél perccel javították meg a korábbi időt. A speciális karbonbetétes cipők szerepe továbbra is vita tárgya. A sportoló a következő olimpiára készül.
+[Forráslink]
+https://example.com/marathon
+{https://picsum.photos/800/600?random=902}

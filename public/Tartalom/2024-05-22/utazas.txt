@@ -1,0 +1,23 @@
+[Hírszekció]
+Utazás
+[Cím]
+A világ legszebb tengerpartjai 2025-ben
+[tagek]
+#Utazás #Tengerpart #Nyár
+[Tartalom]
+A TripAdvisor közzétette az idei év toplistáját. Az első helyen egy eldugott brazil sziget végzett, megelőzve a Maldív-szigeteket. A fenntartható turizmus egyre fontosabb szempont az értékelésnél.
+[Forráslink]
+https://example.com/travel
+{https://picsum.photos/800/600?random=601}
+
+[Hírszekció]
+Utazás
+[Cím]
+Olcsó repjegyek: itt az új fapados boom
+[tagek]
+#Repülés #Tippek #Spórolás
+[Tartalom]
+Új légitársaságok léptek be a piacra, ami lenyomta az árakat a népszerű útvonalakon. Most érdemes foglalni a tavaszi szezonra. Összegyűjtöttük a legjobb ajánlatokat.
+[Forráslink]
+https://example.com/flights
+{https://picsum.photos/800/600?random=602}

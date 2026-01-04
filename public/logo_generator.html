@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NemRosszHírek Logó Generátor</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; background: #09090b; color: white; }
+    </style>
+</head>
+<body class="p-10 min-h-screen">
+
+    <h1 class="text-3xl font-black text-center mb-10 text-[#FF204E]">LOGÓ GENERÁTOR</h1>
+    
+    <div class="max-w-4xl mx-auto space-y-12">
+        
+        <!-- SECTION 1: SQUARE LOGO -->
+        <div class="bg-[#18181b] p-8 rounded-2xl border border-zinc-800">
+            <h2 class="text-xl font-bold mb-4 text-[#10b981] flex items-center gap-2">1. NÉGYZETES LOGÓ (Ikon)</h2>
+            <div class="flex flex-col md:flex-row gap-8 items-center">
+                <!-- Preview -->
+                <div class="p-4 bg-zinc-900 rounded border border-zinc-700">
+                    <svg id="source-square" width="256" height="256" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="512" height="512" rx="80" fill="#000000" stroke="#10b981" stroke-width="30"/>
+                        <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Inter, sans-serif" font-weight="900" font-size="280">NR</text>
+                        <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Inter, sans-serif" font-weight="900" font-size="80" letter-spacing="20">HÍREK</text>
+                    </svg>
+                </div>
+                <!-- Controls -->
+                <div class="flex-1 space-y-3 w-full">
+                    <p class="text-sm text-zinc-400">Válassz méretet és formátumot a letöltéshez:</p>
+                    <div class="grid grid-cols-2 gap-3">
+                        <button onclick="download('source-square', 64, 'png')" class="bg-zinc-800 hover:bg-white hover:text-black py-2 rounded font-bold transition">64x64 PNG</button>
+                        <button onclick="download('source-square', 128, 'png')" class="bg-zinc-800 hover:bg-white hover:text-black py-2 rounded font-bold transition">128x128 PNG</button>
+                        <button onclick="download('source-square', 256, 'png')" class="bg-zinc-800 hover:bg-white hover:text-black py-2 rounded font-bold transition">256x256 PNG</button>
+                        <button onclick="download('source-square', 512, 'png')" class="bg-zinc-800 hover:bg-white hover:text-black py-2 rounded font-bold transition">512x512 PNG</button>
+                        <button onclick="download('source-square', 256, 'jpg')" class="bg-zinc-800 hover:bg-[#FF204E] py-2 rounded font-bold transition">256x256 JPG</button>
+                        <button onclick="download('source-square', 1024, 'jpg')" class="bg-zinc-800 hover:bg-[#FF204E] py-2 rounded font-bold transition">1024x1024 JPG</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SECTION 2: FULL LOGO -->
+        <div class="bg-[#18181b] p-8 rounded-2xl border border-zinc-800">
+            <h2 class="text-xl font-bold mb-4 text-[#10b981] flex items-center gap-2">2. TELJES LOGÓ (Szöveges)</h2>
+            <div class="flex flex-col gap-8 items-center">
+                <!-- Preview -->
+                <div class="p-8 bg-black rounded border border-zinc-700 w-full flex justify-center">
+                    <svg id="source-full" width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+                        <style>
+                            .text-base { font-family: 'Inter', sans-serif; font-weight: 900; }
+                        </style>
+                        <!-- Transparent bg placeholder -->
+                        <text x="0" y="55" class="text-base" font-size="60" fill="#ffffff">NemRossz</text>
+                        <text x="315" y="55" class="text-base" font-size="60" fill="#FF204E">Hírek</text>
+                    </svg>
+                </div>
+                <!-- Controls -->
+                <div class="flex-1 space-y-3 w-full">
+                    <p class="text-sm text-zinc-400">Válassz méretet és formátumot (PNG átlátszó, JPG fekete háttérrel):</p>
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+                        <button onclick="download('source-full', 200, 'png')" class="bg-zinc-800 hover:bg-white hover:text-black py-2 rounded font-bold transition">Kicsi PNG</button>
+                        <button onclick="download('source-full', 400, 'png')" class="bg-zinc-800 hover:bg-white hover:text-black py-2 rounded font-bold transition">Közepes PNG</button>
+                        <button onclick="download('source-full', 800, 'png')" class="bg-zinc-800 hover:bg-white hover:text-black py-2 rounded font-bold transition">Nagy PNG</button>
+                        <button onclick="download('source-full', 1600, 'png')" class="bg-zinc-800 hover:bg-white hover:text-black py-2 rounded font-bold transition">Extra Nagy PNG</button>
+                        
+                        <button onclick="download('source-full', 400, 'jpg', true)" class="bg-zinc-800 hover:bg-[#FF204E] py-2 rounded font-bold transition">Közepes JPG</button>
+                        <button onclick="download('source-full', 800, 'jpg', true)" class="bg-zinc-800 hover:bg-[#FF204E] py-2 rounded font-bold transition">Nagy JPG</button>
+                        <button onclick="download('source-full', 1600, 'jpg', true)" class="bg-zinc-800 hover:bg-[#FF204E] py-2 rounded font-bold transition">Extra Nagy JPG</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        function download(sourceId, size, format, forceBlackBg = false) {
+            const svgElement = document.getElementById(sourceId);
+            const canvas = document.createElement('canvas');
+            const ctx = canvas.getContext('2d');
+            
+            // Calculate aspect ratio
+            const viewBox = svgElement.viewBox.baseVal;
+            const ratio = viewBox.width / viewBox.height;
+            
+            let width = size;
+            let height = size / ratio;
+
+            // For square logo, it's 1:1, but for full logo it's variable
+            if (sourceId === 'source-square') {
+                height = size;
+            }
+
+            canvas.width = width;
+            canvas.height = height;
+
+            // Convert SVG to String
+            const serializer = new XMLSerializer();
+            let svgString = serializer.serializeToString(svgElement);
+
+            // Create Image
+            const img = new Image();
+            const svgBlob = new Blob([svgString], {type: 'image/svg+xml;charset=utf-8'});
+            const url = URL.createObjectURL(svgBlob);
+
+            img.onload = function() {
+                // Fill background if JPG
+                if (format === 'jpg' || forceBlackBg) {
+                    ctx.fillStyle = "#000000";
+                    ctx.fillRect(0, 0, canvas.width, canvas.height);
+                }
+                
+                ctx.drawImage(img, 0, 0, width, height);
+                
+                // Trigger Download
+                const link = document.createElement('a');
+                link.download = `nemrosszhirek-${sourceId === 'source-square' ? 'logo' : 'text'}-${width}x${height}.${format}`;
+                link.href = canvas.toDataURL(`image/${format === 'jpg' ? 'jpeg' : 'png'}`);
+                link.click();
+                
+                URL.revokeObjectURL(url);
+            };
+
+            img.src = url;
+        }
+    </script>
+</body>
+</html>

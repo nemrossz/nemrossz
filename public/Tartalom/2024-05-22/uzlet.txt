@@ -1,0 +1,23 @@
+[Hírszekció]
+Üzlet
+[Cím]
+Történelmi csúcson az arany árfolyama
+[tagek]
+#Tőzsde #Arany #Befektetés
+[Tartalom]
+A bizonytalan gazdasági környezet miatt a befektetők a biztonságos menedékeszközök felé fordulnak. Az unciánkénti árfolyam átlépte a lélektani határt. Elemzők szerint a trend tartós maradhat az év végéig.
+[Forráslink]
+https://example.com/gold
+{https://picsum.photos/800/600?random=401}
+
+[Hírszekció]
+Üzlet
+[Cím]
+Az elektromos autók piaca lassulást mutat
+[tagek]
+#Autoipar #EV #Gazdaság
+[Tartalom]
+A nagy autógyártók visszavágták az elektromos átállásra vonatkozó terveiket a kereslet csökkenése miatt. A magas kamatok és a töltőhálózat hiányosságai elriasztják a vásárlókat. A hibrid modellek reneszánszukat élik.
+[Forráslink]
+https://example.com/ev-market
+{https://picsum.photos/800/600?random=402}

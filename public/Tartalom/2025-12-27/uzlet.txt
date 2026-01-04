@@ -1,0 +1,23 @@
+[Hírszekció]
+Üzlet
+[Cím]
+Szárnyalnak a kriptovaluták az új szabályozás hírére
+[tagek]
+#Kripto #Bitcoin #Tőzsde
+[Tartalom]
+Az amerikai tőzsdefelügyelet jóváhagyta az új ETF csomagot, ami miatt a Bitcoin és az Ethereum árfolyama is két számjegyű növekedést produkált. Az intézményi befektetők tőkéje elkezdett visszaáramlani a piacra.
+[Forráslink]
+https://example.com/crypto-bull
+{https://picsum.photos/800/600?random=401}
+
+[Hírszekció]
+Üzlet
+[Cím]
+Mesterséges intelligencia vezérelt tőzsderobotok uralják a piacot
+[tagek]
+#AI #Trading #Pénzügy
+[Tartalom]
+Egy friss jelentés szerint a napi kereskedési volumen 75%-át már teljesen autonóm algoritmusok bonyolítják. Ez csökkenti a volatilitást, de felveti a "flash crash"-ek kockázatát is, ha a botok egymás ellen fordulnak.
+[Forráslink]
+https://example.com/ai-trading
+{https://picsum.photos/800/600?random=402}

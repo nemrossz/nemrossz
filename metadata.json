@@ -1,0 +1,7 @@
+{
+  "name": "Nemrosszhirek from git",
+  "description": "NemRosszHírek from git",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
