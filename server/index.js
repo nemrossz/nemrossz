@@ -22,7 +22,10 @@ const ADMIN_HASH = process.env.ADMIN_HASH || "f516802523277026727500350493864557
 
 
 // Security: Headers
-app.use(helmet());
+// CSP Disabled temporarily for debugging external CDN scripts (Tailwind, ESM, Fonts)
+app.use(helmet({
+    contentSecurityPolicy: false,
+}));
 
 // Security: Rate Limiting
 const limiter = rateLimit({
