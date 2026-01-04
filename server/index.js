@@ -11,7 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const STATS_FILE = path.join(__dirname, 'stats.json');
 const HISTORY_FILE = path.join(__dirname, '../public/market_history.json');
 const CONTENT_DIR = path.join(__dirname, '../public/Tartalom');
@@ -28,8 +28,8 @@ app.use(helmet());
 
 // Security: Rate Limiting
 const limiter = rateLimit({
-	windowMs: 15 * 60 * 1000, // 15 minutes
-	limit: 1000, // Limit each IP to 1000 requests per windowMs
+    windowMs: 15 * 60 * 1000, // 15 minutes
+    limit: 1000, // Limit each IP to 1000 requests per windowMs
     standardHeaders: 'draft-7',
     legacyHeaders: false,
 });
@@ -45,6 +45,15 @@ const loginLimiter = rateLimit({
 app.use(cors());
 app.use(express.json());
 
+// Serve static files from the React app
+app.use(express.static(path.join(__dirname, '../dist')));
+
+// Also serve the public folder directly if needed (for images etc that might be referenced absolutely)
+// However, Vite builds usually put everything in dist. 
+// But the server code references '../public/Tartalom' for the content-index API.
+// Let's keep the API logic as is, but serving the UI site needs to come from dist.
+
+
 // --- CONTENT INDEXING (Performance Optimization) ---
 // Scans the directory structure to tell the client exactly which dates have content.
 // This prevents the client from guessing dates and getting 404s.
@@ -52,14 +61,14 @@ app.get('/api/content-index', async (req, res) => {
     try {
         // PERFORMANCE: Cache this response for 5 minutes (300s) on client/CDN
         res.set('Cache-Control', 'public, max-age=300');
-        
+
         const entries = await fs.readdir(CONTENT_DIR, { withFileTypes: true });
         // Filter for directories that look like dates (YYYY-MM-DD)
         const dates = entries
             .filter(dirent => dirent.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(dirent.name))
             .map(dirent => dirent.name)
             .sort((a, b) => b.localeCompare(a)); // Descending order (newest first)
-        
+
         res.json({ dates });
     } catch (e) {
         console.error("Content index error:", e);
@@ -117,13 +126,13 @@ const fetchMarketDataForHistory = async () => {
 
         // 3. Stocks (Finnhub) - Using local key
         const fetchStock = async (symbol, name) => {
-             try {
-                 const res = await fetch(`https://finnhub.io/api/v1/quote?symbol=${encodeURIComponent(symbol)}&token=${FINNHUB_KEY}`);
-                 if (res.ok) {
-                     const data = await res.json();
-                     if (data.c > 0) currentPrices[name] = data.c;
-                 }
-             } catch (e) { console.error(`Server Stock fetch error ${symbol}`, e); }
+            try {
+                const res = await fetch(`https://finnhub.io/api/v1/quote?symbol=${encodeURIComponent(symbol)}&token=${FINNHUB_KEY}`);
+                if (res.ok) {
+                    const data = await res.json();
+                    if (data.c > 0) currentPrices[name] = data.c;
+                }
+            } catch (e) { console.error(`Server Stock fetch error ${symbol}`, e); }
         };
 
         await fetchStock('^GSPC', 'S&P 500');
@@ -140,19 +149,19 @@ const updateMarketHistory = async () => {
     try {
         const today = new Date().toISOString().split('T')[0];
         let history = {};
-        
+
         try {
             const dataStr = await fs.readFile(HISTORY_FILE, 'utf8');
             history = JSON.parse(dataStr);
         } catch (e) {
             // File might not exist yet
         }
-        
+
         const currentRates = await fetchMarketDataForHistory();
-        
+
         if (Object.keys(currentRates).length > 0) {
             history[today] = { ...history[today], ...currentRates };
-            
+
             // Cleanup: Keep only last 8 days
             const sortedDates = Object.keys(history).sort();
             if (sortedDates.length > 8) {
@@ -175,7 +184,7 @@ const updateMarketHistory = async () => {
 updateMarketHistory();
 setInterval(() => {
     updateMarketHistory();
-}, 60 * 60 * 1000); 
+}, 60 * 60 * 1000);
 
 // --- STATS LOGIC ---
 
@@ -209,7 +218,7 @@ app.post('/api/visit', async (req, res) => {
         if (existingVisit) {
             existingVisit.views = (existingVisit.views || 1) + 1;
             existingVisit.lastAction = new Date().toISOString();
-            existingVisit.theme = theme; 
+            existingVisit.theme = theme;
         } else {
             data.visits.push({
                 ip: realIp,
@@ -227,7 +236,7 @@ app.post('/api/visit', async (req, res) => {
                 timeSpent: 0
             });
         }
-        
+
         data.themeStats[theme] = (data.themeStats[theme] || 0) + 1;
 
         if (data.visits.length > 1000) {
@@ -247,9 +256,9 @@ app.post('/api/pageview', async (req, res) => {
         const { page } = req.body;
         const dataStr = await fs.readFile(STATS_FILE, 'utf8');
         const data = JSON.parse(dataStr);
-        
+
         data.pageViews[page] = (data.pageViews[page] || 0) + 1;
-        
+
         await fs.writeFile(STATS_FILE, JSON.stringify(data, null, 2));
         res.json({ success: true });
     } catch (e) {
@@ -260,7 +269,7 @@ app.post('/api/pageview', async (req, res) => {
 // SECURITY UPDATE: Server-side Authentication
 app.post('/api/admin-login', loginLimiter, async (req, res) => {
     const { password } = req.body;
-    
+
     if (!password) return res.status(400).json({ error: "Password required" });
 
     // Hash the input password
@@ -279,6 +288,12 @@ app.post('/api/admin-login', loginLimiter, async (req, res) => {
         // Auth failed
         res.status(401).json({ error: "Helytelen jelszó" });
     }
+});
+
+// --- SPA FALLBACK ---
+// For any request that doesn't match an API route, send index.html
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../dist/index.html'));
 });
 
 app.listen(PORT, () => {
